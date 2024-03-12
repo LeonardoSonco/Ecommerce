@@ -7,7 +7,10 @@ module.exports = {
        'gray' : '#F3F9FB',
        'colorText' : '#666666',
        'colorBgHeaderUp' : '#F5F5F5',
-       'blue':'#008ECC'
+       'blue':'#008ECC',
+       'blueCarousel' : '#212844',
+       'card' : '#F5F5F5',
+       'borderCard' : '#EDEDED'
       },
       
       boxShadow:{

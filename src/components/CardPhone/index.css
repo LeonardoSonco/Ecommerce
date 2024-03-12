@@ -1,0 +1,11 @@
+.discountCard {
+  padding: 12px;
+      background: #008ECC;
+      color: white;
+      border-start-end-radius: 16px;
+      border-end-start-radius: 16px;
+      display: flex;
+      flex-direction: column;
+      line-height: 1;
+        margin-left: 168px
+}

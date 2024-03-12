@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Galaxy S22 Ultra",
+    "image": "phones/galaxyS22.png",
+    "price": 3500,
+    "discount": 56
+  },
+  {
+    "id": 2,
+    "name": "Galaxy M13 (4GB | 64 GB )",
+    "image": "phones/galaxyM13.png",
+    "price": 3500,
+    "discount": 56
+  },
+  {
+    "id": 3,
+    "name": "Galaxy M33 (4GB | 64 GB )",
+    "image": "phones/galaxyM33.png",
+    "price": 3500,
+    "discount": 56
+  },
+  {
+    "id": 4,
+    "name": "Galaxy M53 (4GB | 64 GB )",
+    "image": "phones/galaxyM53.png",
+    "price": 3500,
+    "discount": 56
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Note 12",
+    "image": "phones/xiaomiNote12.png",
+    "price": 3500,
+    "discount": 56
+  },
+  {
+    "id": 6,
+    "name": "Galaxy A54",
+    "image": "phones/galaxyA54.png",
+    "price": 3500,
+    "discount": 56
+  },
+  {
+    "id": 7,
+    "name": "Motorola Edge 40",
+    "image": "phones/motorolaEdge40.png",
+    "price": 3500,
+    "discount": 56
+  },
+  {
+    "id": 8,
+    "name": "Xiaomi Redmi 11",
+    "image": "phones/xiaomiRedmi11.png",
+    "price": 3500,
+    "discount": 56
+  }
+  ,
+    {
+      "id": 9,
+      "name": "Iphone 13",
+      "image": "phones/iphone.png",
+      "price": 3500,
+      "discount": 56
+    }
+]

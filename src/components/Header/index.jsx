@@ -98,7 +98,7 @@ export default function Header() {
       {menuHamburguer ? (
         <header>
           <div
-            className={`flex bg-gray_header justify-between items-center px-5 pt-5 pb-3 animate-fade animate-once animate-ease-in animate-delay-150
+            className={`flex bg-gray_header justify-between items-center px-5 pt-5 pb-3 animate-fade animate-once animate-ease-in animate-delay-150 mb-4
         ${isNavOpen ? "showMenu " : ""}
       `}
           >
@@ -232,7 +232,7 @@ export default function Header() {
           </div>
         </header>
       ) : (
-        <header>
+        <header className="mb-8">
           <div className="flex justify-between py-3 px-10 font-light text-sm bg-colorBgHeaderUp text-colorText">
             <p>Bem-vindo ao Megamart mundial!</p>
             <div className="flex gap-5">
@@ -289,7 +289,7 @@ export default function Header() {
             </div>
           </div>
 
-          <nav className="flex justify-center gap-4 flex-wrap items-baseline">
+          <nav className="flex justify-center gap-4 flex-wrap items-baseline border-b-2 border-t-2 py-4 border-gray">
             {menuData.map((item, index) => (
               <NavItem
                 title={item.title}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "SMART WEARABLE.",
+    "description": "Best Deal Online on smart watches",
+    "image": "filter/watches.png",
+    "discount": "UP to 80% OFF"
+  },
+  {
+    "id": 2,
+    "name": "MODERN ACCESSORIES.",
+    "description": "Best Deal Online on accessories",
+    "image": "filter/accessories.png",
+    "discount": "UP to 80% OFF"
+  },
+  {
+    "id": 3,
+    "name": "ELECTRONICS.",
+    "description": "Best Deal Online on decor",
+    "image": "filter/electronics.png",
+    "discount": "UP to 80% OFF"
+  },
+  {
+    "id": 4,
+    "name": "DECOR.",
+    "description": "Best Deal Online on eletronics",
+    "image": "filter/decor.png",
+    "discount": "UP to 80% OFF"
+  },
+  {
+    "id": 5,
+    "name": "MOBILE.",
+    "description": "Best Deal Online on mobile",
+    "image": "filter/mobile.png",
+    "discount": "UP to 80% OFF"
+  },
+  {
+    "id": 6,
+    "name": "COSMETICS.",
+    "description": "Best Deal Online on cosmetics",
+    "image": "filter/cosmetics.png",
+    "discount": "UP to 80% OFF"
+  },
+  {
+    "id": 7,
+    "name": "FURNITURE.",
+    "description": "Best Deal Online on furniture",
+    "image": "filter/furniture.png",
+    "discount": "UP to 80% OFF"
+  }
+]
